@@ -2,8 +2,8 @@
     "prayerTimes": [
         {
             "name": "Fajr",
-            "time": "4:50:AM",
-            "ikama": "5:20:AM",
+            "azan": "4:50:AM",
+            "ikama": "5:01:AM",
 			"id":234
         },
         {
@@ -28,7 +28,7 @@
             "name": "Isha",
             "azan": "8:00:PM",
             "ikama": "8:30:PM",
-			"id":238
+		"id":238
         }
     ]
 }
